@@ -28,6 +28,7 @@ def primeFinder (max):
             print(i)
     return(max)
 '''
+'''
 def triangleArea(base, height):
     area = base*height/2
     print(area)
@@ -43,4 +44,15 @@ print(areaList)
 
 #appen,extend, insert
 #pop, remove, clear
+'''
+
+listNumbers = []
+size = 5 
+for i in range (size):
+   listNumbers.append(10*np.random.random())
+   
+listCities =["New York","Los Angeles", "Oakland", ""]
+print(listNumbers)
+listNumbers.sort()
+print(listNumbers)
 
