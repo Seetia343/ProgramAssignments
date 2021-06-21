@@ -54,5 +54,6 @@ for i in range (size):
 listCities =["New York","Los Angeles", "Oakland", ""]
 print(listNumbers)
 listNumbers.sort()
-print(listNumbers)
+print(listNumbers) 
+
 
